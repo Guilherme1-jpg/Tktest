@@ -30,7 +30,7 @@
 
     	fclose($socket);
 		} 
-		//Peço desculpas, mas nao tenho conhecimento em cURL. 
+	
 
 
 		/*$url="https://hooks.slack.com/services/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";
